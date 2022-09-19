@@ -1,5 +1,5 @@
 {
-  "extends": ["../../.eslintrc"],
+  "extends": ["airbnb", "../../.eslintrc"],
   "parserOptions": {
     "requireConfigFile": false
   },
